@@ -1,0 +1,49 @@
+body{
+    padding: 25px;
+  }
+  .title {
+      color: #5C6AC4;
+  }
+  body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+  }
+  body>h1{
+    text-align: center;
+  }
+  
+  header {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 20px 0;
+  }
+  
+  .team {
+      display: block;
+      justify-content: space-between;
+      /* flex-wrap: wrap; */
+      margin-top: 20px;
+  }
+  
+  .team-member {
+      text-align: center;
+      margin-bottom: 20px;
+  }
+  
+  .team-member img {
+      width: 150px;
+      border-radius: 50%;
+  }
+  
+  .team-member h2 {
+      margin-top: 10px;
+      margin-bottom: 5px;
+  }
+  
+  .team-member p {
+      color: #777;
+      margin: 0;
+  }
+  
